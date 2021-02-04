@@ -6,7 +6,7 @@
 
 - **Desafio dia 1 - Ícone hamburguer + menu fullscreen animado**
 
-![](dia1.gif)
+![](dia_1/dia1.gif)
 
 [Meu código](https://github.com/bfloriano/Desafio30diasCSS/tree/master/dia_1)
 
