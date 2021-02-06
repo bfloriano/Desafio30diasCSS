@@ -23,4 +23,22 @@ Aprendizados:
 
 * ***seletores***
 
+--- 
+
+- **Desafio dia 2 - Background com efeitos Hover**
+
+![](dia_2/dia2.gif)
+
+[Meu código](https://github.com/bfloriano/Desafio30diasCSS/tree/master/dia_2)
+
+Referência:
+[Background Hover Effects](https://www.youtube.com/watch?v=StjmEh211Oc)
+
+Aprendizados:
+
+* ***@keyframes***
+
+* *propriedade CSS **box-shadow***
+
+
 
