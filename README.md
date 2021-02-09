@@ -40,5 +40,19 @@ Aprendizados:
 
 * *propriedade CSS **box-shadow***
 
+--- 
+
+- **Desafio dia 3 - Gradient Border Cards**
+
+![](dia_3/dia3.gif)
+
+[Meu código](https://github.com/bfloriano/Desafio30diasCSS/tree/master/dia_3)
+
+Referência:
+[Gradient Border Cards](https://www.youtube.com/watch?v=1zFlSLD01Uw)
+
+Aprendizados:
+
+* *pseudo-classe CSS **:nth-child()***
 
 
