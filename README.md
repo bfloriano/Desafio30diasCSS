@@ -6,6 +6,7 @@
 * [Dia 01 - Ícone hamburguer + menu fullscreen animado](#id01)
 * [Dia 02 - Background com efeitos Hover](#id02)
 * [Dia 03 - Gradient Border Cards](#id03)
+* [Dia 04 - Floating Ghost](#id04)
 --- 
 
 - **Desafio dia 1 - Ícone hamburguer + menu fullscreen animado** <a name="id01"></a>
@@ -59,4 +60,20 @@ Aprendizados:
 
 * *pseudo-classe CSS **:nth-child()***
 
+--- 
+
+- **Desafio dia 4 - Floating Ghost** <a name="id04"></a>
+
+![](dia_4/dia4.gif)
+
+[Meu código](https://github.com/bfloriano/Desafio30diasCSS/tree/master/dia_4)
+
+Referência:
+[Awesome Floating Ghost](https://www.youtube.com/watch?v=so5gizA6hNo)
+
+Aprendizados:
+
+* *propriedade CSS **animation***
+
+* ***@keyframes***
 
