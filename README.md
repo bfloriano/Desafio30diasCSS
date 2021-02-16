@@ -7,6 +7,7 @@
 * [Dia 02 - Background com efeitos Hover](#id02)
 * [Dia 03 - Gradient Border Cards](#id03)
 * [Dia 04 - Floating Ghost](#id04)
+* [Dia 05 - Animated Box](#id05)
 --- 
 
 - **Desafio dia 1 - Ícone hamburguer + menu fullscreen animado** <a name="id01"></a>
@@ -77,3 +78,19 @@ Aprendizados:
 
 * ***@keyframes***
 
+--- 
+
+- **Desafio dia 5 - Animated Box** <a name="id05"></a>
+
+![](dia_5/dia5.gif)
+
+[Meu código](https://github.com/bfloriano/Desafio30diasCSS/tree/master/dia_5)
+
+
+Aprendizados:
+
+* *propriedade CSS **transform***
+
+* *pseudo-classe CSS **:nth-of-type()***
+
+* ***clear***
