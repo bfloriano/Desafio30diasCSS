@@ -8,6 +8,7 @@
 * [Dia 03 - Gradient Border Cards](#id03)
 * [Dia 04 - Floating Ghost](#id04)
 * [Dia 05 - Animated Box](#id05)
+* [Dia 06 - Social Media Buttons With Hover Effects](#id06)
 --- 
 
 - **Desafio dia 1 - Ícone hamburguer + menu fullscreen animado** <a name="id01"></a>
@@ -94,3 +95,18 @@ Aprendizados:
 * *pseudo-classe CSS **:nth-of-type()***
 
 * ***clear***
+
+--- 
+
+- **Desafio dia 6 - Social Media Buttons With Hover Effects** <a name="id06"></a>
+
+![](dia_6/dia6.gif)
+
+[Meu código](https://github.com/bfloriano/Desafio30diasCSS/tree/master/dia_6)
+
+
+Aprendizados:
+
+* *propriedade CSS **background-clip***
+
+* **-webkit-text-fill-color**
