@@ -104,6 +104,8 @@ Aprendizados:
 
 [Meu código](https://github.com/bfloriano/Desafio30diasCSS/tree/master/dia_6)
 
+Referência:
+[Social Media Buttons With Awesome Hover Effects](https://www.youtube.com/watch?v=WESIes0U_ds)
 
 Aprendizados:
 
