@@ -9,6 +9,8 @@
 * [Dia 04 - Floating Ghost](#id04)
 * [Dia 05 - Animated Box](#id05)
 * [Dia 06 - Social Media Buttons With Hover Effects](#id06)
+* [Dia 07 - To-do List](#id07)
+<!-- * [Dia 13 - Glass Morphism Effects](#id13) -->
 --- 
 
 - **Desafio dia 1 - Ícone hamburguer + menu fullscreen animado** <a name="id01"></a>
@@ -112,3 +114,35 @@ Aprendizados:
 * *propriedade CSS **background-clip***
 
 * **-webkit-text-fill-color**
+
+---
+
+- **Desafio dia 7 - To-do List** <a name="id07"></a>
+
+![](dia_7/dia7.gif)
+
+[Meu código](https://github.com/bfloriano/Desafio30diasCSS/tree/master/dia_7)
+
+Referência:
+[Awesome ToDo List Using HTML & CSS](https://www.youtube.com/watch?v=jM1jzztqSBg)
+
+
+
+---
+<!-- 
+- **Desafio dia 13 - Glass Morphism Effects** <a name="id13"></a>
+
+![](dia_13/dia13.gif)
+
+[Meu código](https://github.com/bfloriano/Desafio30diasCSS/tree/master/dia_13)
+
+Referência:
+[Real Glassmorphism Card Hover Effects](https://www.youtube.com/watch?v=hv0rNxr1XXk)
+
+Aprendizados:
+
+* *propriedade CSS **clip-path***
+
+* *propriedade CSS **backdrop-filter***
+
+* **[vanilla tilt.js](https://micku7zu.github.io/vanilla-tilt.js/)** -->
