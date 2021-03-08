@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: #111;
+}
+
+.clock {
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.clock span {
+    width: 50px;
+    height: 2px;
+    position: absolute;
+    background: linear-gradient(45deg, #03a9f4, #ff0058);
+}
+.clock span:nth-child(1) {
+    height: 50px;
+    width: 2px;
+    top: 14px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.clock span:nth-child(2) {
+   right: 148px;
+   top: 78px;
+   transform: rotate(-60deg);
+}
+.clock span:nth-child(3) {
+    right: 54px;
+    top: 172px;
+    transform: rotate(-30deg);
+}
+.clock span:nth-child(4) {
+    top: 50%;
+    right: 14px;
+    transform: translateY(-50%);
+}
+.clock span:nth-child(5) {
+    right: 54px;
+    bottom: 172px;
+    transform: rotate(30deg);
+}
+.clock span:nth-child(6) {
+    right: 148px;
+    bottom: 78px;
+    transform: rotate(60deg);
+}
+.clock span:nth-child(7) {
+    height: 50px;
+    width: 2px;
+    bottom: 14px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.clock span:nth-child(8) {
+    left: 148px;
+    bottom: 78px;
+    transform: rotate(-60deg);
+}
+.clock span:nth-child(9) {
+    left: 50px;
+    bottom: 170px;
+    transform: rotate(-30deg);
+}
+.clock span:nth-child(10) {
+    top: 50%;
+    left: 14px;
+    transform: translateY(-50%);
+}
+.clock span:nth-child(11) {
+    left: 50px;
+    top: 170px;
+    transform: rotate(30deg);
+}
+.clock span:nth-child(12) {
+    left: 148px;
+    top: 78px;
+    transform: rotate(60deg);
+}
+
+.c {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.shand {
+    width: 120px;
+    height: 2px;
+    background: white;
+    position: absolute;
+    top: 30px;
+    transform: rotate(-30deg);
+    right: -8px;
+}
+.bhand {
+    width: 400px;
+    height: 2px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%) rotate(0deg);
+    animation: clock 12s infinite;
+}
+.bhand div{
+    width: 200px;
+    height: 2px;
+    float: left;
+    background: white;
+}
+
+@keyframes clock {
+    7%{
+        transform: translateX(-50%) rotate(30deg);
+    }
+    15%{
+        transform: translateX(-50%) rotate(60deg);
+    }
+    25%{
+        transform: translateX(-50%) rotate(90deg);
+    }
+    34%{
+        transform: translateX(-50%) rotate(120deg);
+    }
+    43%{
+        transform: translateX(-50%) rotate(150deg);
+    }
+    51%{
+        transform: translateX(-50%) rotate(180deg);
+    }
+    60%{
+        transform: translateX(-50%) rotate(210deg);
+    }
+    68%{
+        transform: translateX(-50%) rotate(240deg);
+    }
+    76%{
+        transform: translateX(-50%) rotate(270deg);
+    }
+    84%{
+        transform: translateX(-50%) rotate(300deg);
+    }
+    92%{
+        transform: translateX(-50%) rotate(330deg);
+    }
+    100%{
+        transform: translateX(-50%) rotate(360deg);
+    }
+}

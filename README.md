@@ -10,6 +10,7 @@
 * [Dia 05 - Animated Box](#id05)
 * [Dia 06 - Social Media Buttons With Hover Effects](#id06)
 * [Dia 07 - To-do List](#id07)
+* [Dia 08 - Animated Clock](#id08)
 <!-- * [Dia 13 - Glass Morphism Effects](#id13) -->
 --- 
 
@@ -126,7 +127,20 @@ Aprendizados:
 Referência:
 [Awesome ToDo List Using HTML & CSS](https://www.youtube.com/watch?v=jM1jzztqSBg)
 
+---
 
+- **Desafio dia 8 - Animated Clock** <a name="id08"></a>
+
+![](dia_8/dia8.gif)
+
+[Meu código](https://github.com/bfloriano/Desafio30diasCSS/tree/master/dia_8)
+
+Referência:
+[Awesome Animated Clock Using Only HTML & CSS](https://www.youtube.com/watch?v=QMjaPfRbcx4)
+
+Aprendizados:
+
+* *propriedade CSS **float***
 
 ---
 <!-- 
